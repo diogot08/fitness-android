@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800">
+  <rect width="100%" height="100%" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="100%" height="56" fill="#3F51B5"/>
+  <text x="20" y="36" font-size="18" fill="#FFFFFF">Início</text>
+  <g transform="translate(16,80)">
+    <text x="0" y="0" font-size="16" fill="#111827">Olá, João — pronto pro treino?</text>
+    <rect x="0" y="32" width="328" height="100" rx="10" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <text x="12" y="60" font-size="14" fill="#111827">Próximo treino: Full Body</text>
+    <rect x="200" y="88" width="100" height="36" rx="8" fill="#CDDC39"/>
+    <text x="250" y="112" font-size="14" text-anchor="middle">Iniciar</text>
+
+    <text x="0" y="152" font-size="14" fill="#111827">Últimas sessões</text>
+    <g transform="translate(0,168)">
+      <rect width="100%" height="56" rx="8" fill="#F9FAFB" stroke="#E5E7EB"/>
+      <text x="12" y="36" font-size="13" fill="#374151">01/08 · 40 min</text>
+    </g>
+  </g>
+  <rect x="0" y="720" width="100%" height="80" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="60" y="760" font-size="14" fill="#6B7280">Home</text>
+  <text x="180" y="760" font-size="14" fill="#6B7280">Treinos</text>
+  <text x="300" y="760" font-size="14" fill="#6B7280">Perfil</text>
+</svg>

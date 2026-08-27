@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800">
+  <rect width="100%" height="100%" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="100%" height="56" fill="#3F51B5"/>
+  <text x="20" y="36" font-size="18" fill="#FFFFFF">Perfil</text>
+  <g transform="translate(16,100)">
+    <circle cx="36" cy="36" r="36" fill="#CDDC39"/>
+    <text x="88" y="44" font-size="16" fill="#111827">João Silva</text>
+    <text x="88" y="68" font-size="13" fill="#6B7280">joao@exemplo.com</text>
+
+    <g transform="translate(0,120)">
+      <rect width="328" height="48" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <text x="12" y="32" font-size="14">Idade: 29 · Peso: 78kg · Objetivo: Ganho de força</text>
+    </g>
+
+    <rect x="0" y="600" width="328" height="48" rx="8" fill="#3F51B5"/>
+    <text x="164" y="632" font-size="16" fill="#FFFFFF" text-anchor="middle">Editar perfil</text>
+  </g>
+</svg>

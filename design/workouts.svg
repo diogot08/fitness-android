@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800">
+  <rect width="100%" height="100%" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="100%" height="56" fill="#3F51B5"/>
+  <text x="20" y="36" font-size="18" fill="#FFFFFF">Treinos</text>
+  <g transform="translate(16,80)">
+    <rect x="0" y="0" width="328" height="48" rx="8" fill="#F3F4F6" stroke="#E5E7EB"/>
+    <text x="12" y="32" font-size="14" fill="#6B7280">Pesquisar exercícios</text>
+
+    <g transform="translate(0,72)">
+      <rect width="328" height="80" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <text x="12" y="36" font-size="16">Agachamento</text>
+      <text x="12" y="56" font-size="12" fill="#6B7280">Pernas · Força · 3 sets</text>
+    </g>
+
+    <g transform="translate(0,164)">
+      <rect width="328" height="80" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <text x="12" y="36" font-size="16">Supino</text>
+      <text x="12" y="56" font-size="12" fill="#6B7280">Peito · Força · 4 sets</text>
+    </g>
+  </g>
+</svg>

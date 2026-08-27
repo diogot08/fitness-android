@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800">
+  <rect width="100%" height="100%" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="100%" height="56" fill="#3F51B5"/>
+  <text x="20" y="36" font-size="18" fill="#FFFFFF">Full Body</text>
+  <g transform="translate(16,80)">
+    <text x="0" y="0" font-size="16" fill="#111827">3 sets / exercício · Duração ~45 min</text>
+    <g transform="translate(0,32)">
+      <rect width="328" height="64" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <text x="12" y="36" font-size="15">Agachamento — 3x8</text>
+    </g>
+    <g transform="translate(0,112)">
+      <rect width="328" height="64" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <text x="12" y="36" font-size="15">Supino — 3x8</text>
+    </g>
+    <rect x="0" y="600" width="328" height="48" rx="8" fill="#CDDC39"/>
+    <text x="164" y="632" font-size="16" text-anchor="middle">Iniciar sessão</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800">
+  <rect width="100%" height="100%" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="100%" height="56" fill="#3F51B5"/>
+  <text x="20" y="36" font-size="18" fill="#FFFFFF">Histórico</text>
+  <g transform="translate(16,80)">
+    <text x="0" y="0" font-size="16" fill="#111827">Últimas sessões</text>
+    <g transform="translate(0,24)">
+      <rect width="328" height="64" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <text x="12" y="36" font-size="14">01/08 · Full Body · 40 min</text>
+    </g>
+    <g transform="translate(0,96)">
+      <rect width="328" height="64" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <text x="12" y="36" font-size="14">28/07 · Upper Focus · 34 min</text>
+    </g>
+
+    <rect x="0" y="600" width="328" height="48" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <text x="12" y="632" font-size="14">Ver progresso (gráficos)</text>
+  </g>
+</svg>
